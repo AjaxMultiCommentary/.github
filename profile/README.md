@@ -1,6 +1,6 @@
 ## Ajax Multi-Commentary: code, data, and models
 
-Here is a comprehensive list of code, data, and models created during the Ajax Multi-Commentary project (AjMC), a four-year research project funded by the Swiss National Science Foundation ([grant PZ00P1_186033](https://data.snf.ch/grants/grant/186033)).
+Here is a comprehensive list of code, data, and models created during the Ajax Multi-Commentary project (AjMC), a four-year research project funded by the Swiss National Science Foundation ([grant PZ00P1_186033](https://data.snf.ch/grants/grant/186033)). The project team included [M. Romanello](https://github.com/mromanello) (principal investigator), [C. Pletcher](https://github.com/pletcher) (research software engineer), and [S. Najem-Meyer](https://github.com/sven-nm) (PhD student).
 
 ## Repositories
 
