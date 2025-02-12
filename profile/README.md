@@ -1,4 +1,6 @@
-## Ajax Multi-Commentary: data, models and tools
+## Ajax Multi-Commentary: code, data, and models
+
+Here is a comprehensive list of code, data, and models created during the Ajax Multi-Commentary project (AjMC), a four-year research project funded by the Swiss National Science Foundation ([grant PZ00P1_186033](https://data.snf.ch/grants/grant/186033)).
 
 ## Repositories
 
@@ -9,7 +11,7 @@
 
 ### Pipeline
 
-- [ajmc-pipeline](https://github.com/AjaxMultiCommentary/ajmc-pipeline): Pipeline to process digitised classical commentaries
+- [ajmc-pipeline](https://github.com/AjaxMultiCommentary/ajmc-pipeline): Pipeline to process digitised classical commentaries, implemented in Python
 - [ajmc_annotation_utils](https://github.com/AjaxMultiCommentary/ajmc_annotation_utils): Small Python package for dealing with documents annotated in [INCEpTION](https://inception-project.github.io/)
 - [inception-recommender](https://github.com/AjaxMultiCommentary/inception-recommender): An external recommender for [INCEpTION](https://inception-project.github.io/) with support for Classics NER
 
@@ -21,7 +23,8 @@ TBA
 
 #### Images
 
-- [ajmc-public-commentaries](https://github.com/AjaxMultiCommentary/ajmc-public-commentaries) Image data of public domain commentaries
+- [ajmc-public-commentaries](https://github.com/AjaxMultiCommentary/ajmc-public-commentaries): Image data of public domain commentaries
+- [OCR_artificial_data_sample](https://zenodo.org/records/14840349): Synthetic dataset for multi-script text line recognition (sample)
 
 #### Texts
 
@@ -30,10 +33,10 @@ TBA
 
 ### Datasets
 
-- [OCR groundtruth](https://github.com/AjaxMultiCommentary/GT-commentaries-OCR)
-- [PLA groundtruth](https://github.com/AjaxMultiCommentary/GT-commentaries-layout)
-- [NE-annotated corpus](https://github.com/AjaxMultiCommentary/AjMC-NE-corpus)
-- [Lemma Linkage corpus](https://github.com/AjaxMultiCommentary/lemma-linkage-corpus) (coming soon)
+- [OCR groundtruth](https://github.com/AjaxMultiCommentary/GT-commentaries-OCR): Ground-truth data for OCR of digitised classical commentaries
+- [PLA groundtruth](https://github.com/AjaxMultiCommentary/GT-commentaries-layout): Ground-truth data for PLA of digitised classical commentaries
+- [NE-annotated corpus](https://github.com/AjaxMultiCommentary/AjMC-NE-corpus): Annotated corpus to support the tasks of named entity recognition, entity linking and citation mining on classicsl commentaries.
+- [Lemma Linkage corpus](https://github.com/AjaxMultiCommentary/lemma-linkage-corpus) (coming soon!): Annotated corpus to support the recognition and linking of commentary lemmas.
 
 ### ML Models
 
