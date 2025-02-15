@@ -41,7 +41,7 @@ TBA
 ### ML Models
 
 - OCR (optical character recognition)
-    - [OCR kraken models](https://github.com/AjaxMultiCommentary/OCR-kraken-models)
+    - [OCR kraken models](https://github.com/AjaxMultiCommentary/OCR-kraken-models): Pre-trained OCR Kraken models for historical classical commentaries
     - [OCR transformer model](https://github.com/AjaxMultiCommentary/OCR-transformer-model)
 - PLA (page layout analysis)
     - [Layout YOLO models](https://github.com/AjaxMultiCommentary/layout-yolo-models)
