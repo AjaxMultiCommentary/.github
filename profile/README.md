@@ -49,6 +49,6 @@ TBA
     - [XLM-R-for-classics](https://huggingface.co/sven-nm/XLM-R-for-classics): XLM-RoBERTa-base model further pre-trained on a 1.4B tokens multi-lingual corpus of classical texts.
 - Task-specific models
     - [XLM-R-for-classics-EvaLatinPOS](https://huggingface.co/sven-nm/XLM-R-for-classics-EvaLatinPOS): model fine-tuned for Latin part-of-speech tagging using the Evalatin corpus.
-    - [XLM-R-for-classics-AjMCNER](https://huggingface.co/sven-nm/XLM-R-for-classics-AjMCNER): model fine-tuned for historical bibliographical named-entity recognition using the [AjMC-NE-Corpus](https://github.com/AjaxMultiCommentary/AjMC-NE-corpus).
+    - [XLM-R-for-classics-AjMCNER](https://huggingface.co/sven-nm/XLM-R-for-classics-AjMCNER): model fine-tuned for historical named-entity recognition using the [AjMC-NE-Corpus](https://github.com/AjaxMultiCommentary/AjMC-NE-corpus).
     - [XLM-R-for-classics-AjMCLR](https://huggingface.co/sven-nm/XLM-R-for-classics-AjMCLR): model fine-tuned for lemma recognition on commentaries texts.
 
