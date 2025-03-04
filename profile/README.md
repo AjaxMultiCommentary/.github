@@ -38,16 +38,17 @@ TBA
 - [NE-annotated corpus](https://github.com/AjaxMultiCommentary/AjMC-NE-corpus): Annotated corpus to support the tasks of named entity recognition, entity linking and citation mining on classicsl commentaries.
 - [Lemma Linkage corpus](https://github.com/AjaxMultiCommentary/lemma-linkage-corpus) (coming soon!): Annotated corpus to support the recognition and linking of commentary lemmas.
 
-### ML Models
+### Machine learning Models
 
 - OCR (optical character recognition)
     - [OCR kraken models](https://github.com/AjaxMultiCommentary/OCR-kraken-models): Pre-trained OCR Kraken models for historical classical commentaries
-    - [OCR transformer model](https://github.com/AjaxMultiCommentary/OCR-transformer-model)
+    - [OCR transformer model](https://github.com/AjaxMultiCommentary/OCR-transformer-model): Transformer-based textline recognition model, implemented using PyTorch.
 - PLA (page layout analysis)
-    - [Layout YOLO models](https://github.com/AjaxMultiCommentary/layout-yolo-models)
+    - [Layout YOLO models](https://github.com/AjaxMultiCommentary/layout-yolo-models): YOLOv5m models for page layout analysis of historical commentaries.
 - Language Models
-    - ...
+    - [XLM-R-for-classics](https://huggingface.co/sven-nm/XLM-R-for-classics): XLM-RoBERTa-base model further pre-trained on a 1.4B tokens multi-lingual corpus of classical texts.
 - Task-specific models
-    - NER
-    - Lemma linkage (recognition)
+    - [XLM-R-for-classics-EvaLatinPOS](https://huggingface.co/sven-nm/XLM-R-for-classics-EvaLatinPOS): model fine-tuned for Latin part-of-speech tagging using the Evalatin corpus.
+    - [XLM-R-for-classics-AjMCNER](https://huggingface.co/sven-nm/XLM-R-for-classics-AjMCNER): model fine-tuned for historical bibliographical named-entity recognition using the [AjMC-NE-Corpus](https://github.com/AjaxMultiCommentary/AjMC-NE-corpus).
+    - [XLM-R-for-classics-AjMCLR](https://huggingface.co/sven-nm/XLM-R-for-classics-AjMCLR): model fine-tuned for lemma recognition on commentaries texts.
 
